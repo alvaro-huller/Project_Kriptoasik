@@ -1,0 +1,6 @@
+PyQt6>=6.5
+cryptography>=44.0
+opencv-contrib-python>=4.8
+numpy
+Pillow
+psutil
